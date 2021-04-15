@@ -37,6 +37,11 @@ npm install -D cypress-iframe
 - Test Runner não exibe o conteúdo do iframe no *Time Travel*
 - Issues abertas no repositório do plugin - https://gitlab.com/kgroat/cypress-iframe/-/issues
 
-*Importante* : o suporte nativo a iframes está no ROADMAP priorizado do Cypress. Veja em <link do roadmap>
 
-Deixe seu ⭐️ neste projeto# descomplicando-iframes-com-cypress
+---
+
+*Importante* : o suporte nativo a iframes está no ROADMAP priorizado do Cypress.
+
+Veja em: https://docs.cypress.io/guides/references/roadmap#Upcoming-features
+
+Se você gostou deste conteúdo, deixe seu ⭐️
